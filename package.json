@@ -3,6 +3,11 @@
     "version": "1.0.0",
     "main": "dist/copyrightYear.js",
     "types": "dist/copyrightYear.d.ts",
+    "homepage": "https://github.com/peter-walter/copyright-year#readme",
+    "bugs": {
+        "url": "https://github.com/peter-walter/copyright-year/issues"
+    },
+    "license": "BSD-3-Clause",
     "scripts": {
         "build": "tsc",
         "test": "vitest",
@@ -10,7 +15,9 @@
         "prepublishOnly": "npm run build"
     },
     "files": [
-        "dist"
+        "dist",
+        "README.md",
+        "LICENSE.txt"
     ],
     "devDependencies": {
         "@eslint/js": "^9.20.0",
