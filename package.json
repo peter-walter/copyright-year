@@ -1,6 +1,6 @@
 {
     "name": "copyright-year",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "dist/copyrightYear.js",
     "types": "dist/copyrightYear.d.ts",
     "homepage": "https://github.com/peter-walter/copyright-year#readme",
