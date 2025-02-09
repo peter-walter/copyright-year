@@ -1,13 +1,13 @@
 {
     "name": "copyright-year",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "dist/copyrightYear.js",
     "types": "dist/copyrightYear.d.ts",
     "homepage": "https://github.com/peter-walter/copyright-year#readme",
     "bugs": {
         "url": "https://github.com/peter-walter/copyright-year/issues"
     },
-    "license": "BSD-3-Clause",
+    "license": "MIT",
     "scripts": {
         "build": "tsc",
         "test": "vitest",
