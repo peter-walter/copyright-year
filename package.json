@@ -1,9 +1,9 @@
 {
   "name": "copyright-year",
-  "description": "Disables all registered service workers in the current browser session.",
+  "description": "Updates one or more HTML elements to display a copyright year range.",
   "type": "module",
   "author": "Peter Walter",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "homepage": "https://github.com/peter-walter/copyright-year#readme",
