@@ -15,6 +15,7 @@ npm install copyright-year
 Import and use the function in your JavaScript or TypeScript project:
 
 ### JavaScript (CommonJS)
+
 ```js
 const copyrightYear = require("copyright-year").default;
 
@@ -22,6 +23,7 @@ copyrightYear(".copyright");
 ```
 
 ### TypeScript / ES Module
+
 ```ts
 import copyrightYear from "copyright-year";
 
@@ -29,7 +31,8 @@ copyrightYear(".copyright");
 ```
 
 ## Function Signature
-```ts
+
+````ts
 /**
  * Updates one or more HTML elements to display a copyright year range.
  *
@@ -55,8 +58,10 @@ copyrightYear(".copyright");
  * </script>
  * ```
  */
-export default function copyrightYear(target: HTMLElement | string | null): void;
-```
+export default function copyrightYear(
+  target: HTMLElement | string | null,
+): void;
+````
 
 ## Examples
 
