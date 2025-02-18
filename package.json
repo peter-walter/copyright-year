@@ -1,9 +1,9 @@
 {
   "name": "copyright-year",
-  "description": "Updates one or more HTML elements to display a copyright year range.",
+  "description": "A JavaScript utility for updating HTML elements with a copyright year range.",
   "type": "module",
   "author": "Peter Walter",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "homepage": "https://github.com/peter-walter/copyright-year#readme",
